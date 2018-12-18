@@ -63,16 +63,16 @@
   <ItemGroup>
     <Compile Include="Assets\Import\JMO Assets\Cartoon FX Easy Editor\Editor\CFXEasyEditor.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -330,22 +330,22 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="JMOAssets">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/JMO Assets/Editor/JMOAssets.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/JMO Assets/Editor/JMOAssets.dll</HintPath>
     </Reference>
     <Reference Include="JMOAssets_CartoonFXFreeWelcome">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/JMO Assets/Editor/JMOAssets_CartoonFXFreeWelcome.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/JMO Assets/Editor/JMOAssets_CartoonFXFreeWelcome.dll</HintPath>
     </Reference>
     <Reference Include="GLTFSerialization">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip.Unity">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityGLTF">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/UnityGLTF.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/UnityGLTF.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/Gueguet/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>

@@ -95,16 +95,16 @@
     <None Include="Assets\Import\Sketchfab For Unity\Dependencies\Shaders\GLTFFlipTexture.shader" />
     <None Include="Assets\Import\Sketchfab For Unity\Dependencies\Shaders\GLTFPackOccMetalRough.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -308,16 +308,16 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="GLTFSerialization">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/GLTFSerialization.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip.Unity">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Ionic.Zip.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityGLTF">
-      <HintPath>C:/Users/Gueguet/Desktop/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/UnityGLTF.dll</HintPath>
+      <HintPath>C:/Users/Gueguet/Desktop/SECONDSPECTRUM/BasketBallApp/BasketBallUnity/Assets/Import/Sketchfab For Unity/Dependencies/Libraries/UnityGLTF.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/Gueguet/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
